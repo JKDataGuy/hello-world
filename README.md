@@ -2,4 +2,4 @@
 
 JKs training repository says whassup!
 
-This is the first time I've ever created anything on Git all by myself - what a big biy I am now!!!
+This is the first time I've ever created anything on Git all by myself - what a big boy I am now!!!
