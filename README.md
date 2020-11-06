@@ -1,2 +1,5 @@
 # hello-world
-JKs training repository
+
+JKs training repository says whassup!
+
+This is the first time I've ever created anything on Git all by myself - what a big boy I am now!!!
